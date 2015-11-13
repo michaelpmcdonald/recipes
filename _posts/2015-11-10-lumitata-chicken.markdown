@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Luminata Chicken"
-date:   2015-11-12 21:28:59
-categories: jekyll update
+date:   2015-11-10 19:30:00
+
 ---
 
 Go see the [luminata parade](http://fremontartscouncil.org/facevents/luminata/) and welcome in autumn.  But first, make this:
