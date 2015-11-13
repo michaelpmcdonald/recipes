@@ -3,8 +3,8 @@ title: Tasty Recipes
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Some recipes are good enough that you should take the time and write them down.
-baseurl: "/recipes/" # the subpath of your site, e.g. /blog/
-url: "https:michaelpmcdonald.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https:michaelpmcdonald.github.io/recipes" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

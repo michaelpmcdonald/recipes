@@ -4,10 +4,10 @@
     <title>Tasty Recipes</title>
     <description>Some recipes are good enough that you should take the time and write them down.
 </description>
-    <link>https:michaelpmcdonald.github.io/recipes//</link>
-    <atom:link href="https:michaelpmcdonald.github.io/recipes//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 22:44:40 -0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 22:44:40 -0800</lastBuildDate>
+    <link>https:michaelpmcdonald.github.io/recipes/</link>
+    <atom:link href="https:michaelpmcdonald.github.io/recipes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Nov 2015 22:48:01 -0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 22:48:01 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 12 Nov 2015 13:28:59 -0800</pubDate>
-        <link>https:michaelpmcdonald.github.io/recipes//jekyll/update/2015/11/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https:michaelpmcdonald.github.io/recipes//jekyll/update/2015/11/12/welcome-to-jekyll.html</guid>
+        <link>https:michaelpmcdonald.github.io/recipes/jekyll/update/2015/11/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https:michaelpmcdonald.github.io/recipes/jekyll/update/2015/11/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -75,14 +75,10 @@
 
 &lt;p&gt;When pasta has completed cooking, drain.  Add cheese to sauce and stir in gently, then serve on top of pasta.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Nov 2015 13:28:59 -0800</pubDate>
-        <link>https:michaelpmcdonald.github.io/recipes//jekyll/update/2015/11/12/lumitata-chicken.html</link>
-        <guid isPermaLink="true">https:michaelpmcdonald.github.io/recipes//jekyll/update/2015/11/12/lumitata-chicken.html</guid>
+        <pubDate>Tue, 10 Nov 2015 11:30:00 -0800</pubDate>
+        <link>https:michaelpmcdonald.github.io/recipes/2015/11/10/lumitata-chicken.html</link>
+        <guid isPermaLink="true">https:michaelpmcdonald.github.io/recipes/2015/11/10/lumitata-chicken.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
