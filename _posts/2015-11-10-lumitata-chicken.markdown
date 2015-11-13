@@ -5,7 +5,7 @@ date:   2015-11-12 21:28:59
 categories: jekyll update
 ---
 
-Welcome autumn.  See the [parade]{{http://fremontartscouncil.org/facevents/luminata/}}.  But first, make this:
+Welcome autumn.  See the [parade](http://fremontartscouncil.org/facevents/luminata/).  But first, make this:
 
 Ingredients:
 
