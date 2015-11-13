@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 21:47:30 -0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 21:47:30 -0800</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 22:26:45 -0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 22:26:45 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -30,6 +30,40 @@
         <pubDate>Thu, 12 Nov 2015 13:28:59 -0800</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/11/12/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/12/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Luminata Chicken</title>
+        <description>&lt;p&gt;Welcome autumn.  See the [parade][[http://fremontartscouncil.org/facevents/luminata/]].  But first, make this:&lt;/p&gt;
+
+&lt;p&gt;Ingredients:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-1.5 lb chicken breasts&lt;/li&gt;
+  &lt;li&gt;1 large or 2 small (12oz) jars artichoke hearts&lt;/li&gt;
+  &lt;li&gt;1 jar sun-dried tomatoes&lt;/li&gt;
+  &lt;li&gt;1 cup white wine&lt;/li&gt;
+  &lt;li&gt;2 tbsp olive oil&lt;/li&gt;
+  &lt;li&gt;2 medium garlic cloves&lt;/li&gt;
+  &lt;li&gt;1 pint cream&lt;/li&gt;
+  &lt;li&gt;1 cup parmesan&lt;/li&gt;
+  &lt;li&gt;1 cup romano&lt;/li&gt;
+  &lt;li&gt;1 cup green onions&lt;/li&gt;
+  &lt;li&gt;2 cups mushrooms&lt;/li&gt;
+  &lt;li&gt;1 lb bowtie pasta&lt;/li&gt;
+  &lt;li&gt;1 tbsp salt&lt;/li&gt;
+  &lt;li&gt;1/8 tsp dried ghost pepper (or equivalent cayenne)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 Nov 2015 13:28:59 -0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/11/12/lumitata-chicken.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/12/lumitata-chicken.html</guid>
         
         
         <category>jekyll</category>
