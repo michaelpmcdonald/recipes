@@ -7,7 +7,7 @@ date:   2015-11-10 19:30:00
 
 Go see the [luminata parade](http://fremontartscouncil.org/facevents/luminata/) and welcome in autumn.  But first, make this:
 
-Ingredients:
+# Ingredients:
 
 * 1-1.5 lb chicken breasts
 * 1 large or 2 small (12oz) jars artichoke hearts
@@ -23,6 +23,8 @@ Ingredients:
 * 1 lb bowtie pasta
 * 1 tbsp salt
 * 1/8 tsp dried ghost pepper (or equivalent cayenne)
+
+# Preparation:
 
 Cut chicken into medallions and brown lightly in a skillet.  Add water and allow to cook until about 75% doneness - it will finish in the sauce later.
 
