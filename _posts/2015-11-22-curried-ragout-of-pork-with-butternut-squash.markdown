@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bill's pollo con l'aceto"
-date:   2015-10-1 12:00:00
+title:  "Curried Ragout of Pork with Butternut Squash"
+date:   2015-11-22 17:30:00
 
 ---
-Curried Ragout of Pork with Butternut Squash
+# Curried Ragout of Pork with Butternut Squash
 
 To me, ragouts are the backbone of the late fall and winter kitchen.  Hearty, full of flavor, and easy to prepare, they fill the need for homey, gutsy food that does not let you down.  I grew up with ragouts of all kinds: lamb, veal, sometimes beef, but mostly pork.  The best cut is the shoulder butt, which is tender and extremely flavorful.  Aromatic spices and the all-American butternut squash lift this ragout out of the ordinary and highlight its seasonality.  Since butternut squash is rather bland, be sure to make this dish a day ahead to give the squash plenty of time to absorb the flavors of the ragout.
 
