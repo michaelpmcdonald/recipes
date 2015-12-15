@@ -30,7 +30,7 @@ Cut chicken into medallions and brown lightly in a skillet.  Add water and allow
 
 Add wine to a medium saucepan and start reducing to a volume of about 1/4 cup.  If using ghost pepper flakes, add them to the reduction to allow them to reconstitute and shed flavor.  If using cayenne, add to sauce with cream etc.
 
-Set chicken aside and dry the skillet.  Add olive oil and heat to sauté temperature.  Add mushrooms and brown lightly.  Lower temperature, then add garlic, cooking lightly but not allowing to brown.  Then add sun-dried tomatoes and stir continually for thirty second.  Once wine/stock is reduced, transfer ingredients to sauce pan.
+Set chicken aside and dry the skillet.  Add olive oil and heat to sauté temperature.  Add mushrooms and brown lightly.  Lower temperature, then add garlic, cooking lightly but not allowing to brown.  Then add sun-dried tomatoes and stir continually for 30 seconds.  Once wine/stock is reduced, transfer ingredients to sauce pan.
 
 Begin preparing water for pasta.
 
